@@ -1,7 +1,7 @@
 body {
   padding: 0px;
   margin: 0px;
-  font-family: "Helvetica", sans-serif;
+  font-family: "Montserrat", sans-serif;
   overflow: hidden;
 }
 
@@ -55,6 +55,7 @@ body {
   visibility: hidden;
   font-weight: bold;
   text-align: center;
+  font-family: "Aladin", system-ui;
 }
 
 .chapter-container {
@@ -167,6 +168,7 @@ a.source:visited {
 h1 {
   margin: 0;
   font-size: 1.5em;
+  font-family: "Aladin", system-ui;
 }
 
 h2 {
